@@ -14,10 +14,14 @@ A program which:
 
 Assuming that the test file contains just one line filled with:
 
-```aBabBc```
+```
+aBabBc
+```
 
 The expected output should look as follows:
 
-```a -> 2
+```
+a -> 2
 b -> 3
-c -> 1```
+c -> 1
+```

@@ -19,5 +19,7 @@ Assuming that the test file contains just one line filled with:
 The expected output should look as follows:
 
 `a -> 2
+
 `b -> 3
+
 `c -> 1

@@ -1,6 +1,6 @@
 # Character frequency histogram
 
-Display how often (or how rare) each letter appears in the text.
+Displays how often (or how rare) each letter appears in the text.
 
 Such an analysis may be useful in cryptography, so we want to be able to do that in reference to the Latin alphabet.
 
@@ -14,12 +14,12 @@ A program which:
 
 Assuming that the test file contains just one line filled with:
 
-'aBabBc'
+`aBabBc`
 
 the expected output should look as follows:
 
-'
+`
 a -> 2
 b -> 3
 c -> 1
-'
+`
